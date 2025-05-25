@@ -1,7 +1,4 @@
-                        VEHICLE MANAGEMENT SYSTEM (VMS)
-
-
-
+# VEHICLE MANAGEMENT SYSTEM (VMS)
 **Brief description:**
 
 This is an application on private Sawtooth network that creates a distributed ledger with a decentralized platform for all Motor Vehicles Department of India. 
